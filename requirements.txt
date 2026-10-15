@@ -1,0 +1,12 @@
+streamlit>=1.50
+pandas
+beautifulsoup4
+lxml
+markdown
+mammoth
+pymupdf
+pypandoc_binary>=1.13
+python-docx
+weasyprint>=62
+charset-normalizer
+fonttools
